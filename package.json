@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@elysiajs/static": "^1.4.7",
-    "elysia": "^1.4.27"
+    "@tailwindcss/cli": "^4.2.1",
+    "elysia": "^1.4.27",
+    "tailwindcss": "^4.2.1"
   }
 }
